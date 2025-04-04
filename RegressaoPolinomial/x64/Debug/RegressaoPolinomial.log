@@ -1,0 +1,3 @@
+﻿  RegressaoPolinomial.cpp
+C:\Users\Henrique Matheus\OneDrive - AskBlue\Documents\CODS VISUAL\RegressaoPolinomial\RegressaoPolinomial\RegressaoPolinomial.cpp(7,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  RegressaoPolinomial.vcxproj -> C:\Users\Henrique Matheus\OneDrive - AskBlue\Documents\CODS VISUAL\RegressaoPolinomial\x64\Debug\RegressaoPolinomial.exe
